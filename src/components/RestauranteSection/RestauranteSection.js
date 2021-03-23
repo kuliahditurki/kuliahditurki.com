@@ -59,7 +59,6 @@ export default function RestauranteSection() {
       <h3 className={stylesRestaurant.info}>|| 25 University ||
       700+ Students ||
       3 Strata ||</h3>
-      
         </Row>
       </Container>
     </R.RestauranteSection>
