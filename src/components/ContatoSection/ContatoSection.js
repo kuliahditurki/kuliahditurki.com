@@ -8,7 +8,7 @@ import * as C from './styles';
 
 export default function ContatoSection() {
   return (
-    <C.ContatoWrapper id="contato" title="Contato">
+    <C.ContatoWrapper id="kontak" title="Contato">
       <Container>
         <Row>
           <Col xs="12">

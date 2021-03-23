@@ -8,14 +8,14 @@ const ArtDirectedBackground = ({ className, children, id }) => {
   const { mobileImage, desktopImage } = useStaticQuery(
     graphql`
       query {
-        mobileImage: file(relativePath: { eq: "imgs/bg-main-mobile.jpg" }) {
+        mobileImage: file(relativePath: { eq: "imgs/villa.jpg" }) {
           childImageSharp {
             fluid(maxWidth: 1000, quality: 80) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }
         }
-        desktopImage: file(relativePath: { eq: "imgs/bg-main.jpg" }) {
+        desktopImage: file(relativePath: { eq: "imgs/villa.jpg" }) {
           childImageSharp {
             fluid(quality: 80, maxWidth: 2000) {
               ...GatsbyImageSharpFluid_withWebp

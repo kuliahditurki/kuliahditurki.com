@@ -2,18 +2,16 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
 import SobreImg from '../../assets/sobre-img';
-
 import withData from './withData';
-
 import * as S from './styles';
 
 function SobreSection({ sobreContent }) {
   return (
-    <S.SobreWrapper id="sobre" title="Sobre">
+    <S.SobreWrapper id="info" title="Kontak">
       <Container>
         <Row>
           <Col xs="12">
-            <h2>Sobre</h2>
+            <h2>Tentang Kami</h2>
           </Col>
         </Row>
         <Row>

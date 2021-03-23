@@ -23,7 +23,7 @@ export default function Footer() {
             </p>
           </Col>
           <Col xs="12" sm="4">
-            <h3>Azeite de Dendê</h3>
+            <h3>Kuliah Di Turki</h3>
             <SocialMedias />
           </Col>
         </Row>
@@ -35,7 +35,7 @@ export default function Footer() {
                 matheusdoedev
               </a>
               <br />
-              Azeite de Dendê 2020 @ Todos os direitos reservados
+              Kuliah Di Turki 2021
               <sup>&copy;</sup>.
             </F.Copy>
           </Col>

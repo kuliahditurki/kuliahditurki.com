@@ -12,9 +12,9 @@ export default function IndexPage() {
   return (
     <MainLayout>
       <SEO
-        title="Inicio"
+        title="Home"
         lang="pt-br"
-        description="Restaurante Azeite de Dendê"
+        description="Kuliah Di Turki"
       />
 
       <RestauranteSection />

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Azeite de Dendê`,
+    title: `Kuliah Di Turki`,
     description: `Website do restaurante Azeite de Dendê`,
     author: `@Matheusdoe-dev`,
     keywords:
@@ -18,6 +18,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

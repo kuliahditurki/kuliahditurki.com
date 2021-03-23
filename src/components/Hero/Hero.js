@@ -19,15 +19,15 @@ export default function Hero({ data }) {
           <Col xs="12">
             <H.Title>{data.site.siteMetadata.title}</H.Title>
             <H.Tagline>
-              Restaurante de comida baiana no Pelourinho, centro histórico da
-              cidade de Salvador.
+            Kuliah di Turki oleh PT. Biru Marmara Edukasi adalah lembaga konsultan 
+            pendidikan terbesar di Indonesia yang mendedikasikan diri dalam hal Pendidikan dan Kuliah di Turki.
             </H.Tagline>
             <Button
               href="#restaurante"
               color="var(--secondary-color)"
               background="var(--base-color)"
             >
-              Veja mais sobre
+              Explore College
             </Button>
           </Col>
         </H.HeroContent>

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
-
+import WaButton from "../components/WaButton/index"
 import withStyles from '../providers/withStyles';
 
 import Hero from '../components/Hero/Hero';
@@ -26,6 +26,7 @@ function MainLayout({ children }) {
     <>
       <Hero data={data} />
       <main>{children}</main>
+      <WaButton />
       <Footer />
     </>
   );

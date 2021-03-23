@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-
+import styles from "../../components/style.scss"
 import RestauranteImg1 from '../../assets/restaurante-img-1';
 import RestauranteImg2 from '../../assets/restaurante-img-2';
 import RestauranteImg3 from '../../assets/restaurante-img-3';
@@ -11,22 +11,19 @@ import * as R from './styles';
 
 export default function RestauranteSection() {
   return (
-    <R.RestauranteSection id="restaurante" title="Restaurante">
+    <R.RestauranteSection id="tentangturki" title="Tentang Turki">
       <Container>
         <Row>
           <Col xs="12">
-            <h2>Restaurante</h2>
+            <h2>Tentang Kuliah Di Turki</h2>
           </Col>
         </Row>
         <Row>
           <Col xs="12" sm="6">
             <article title="Infraestrutura">
-              <h3>Infraestrutura</h3>
+              <h3>Mengapa Harus Kuliah DI Turki</h3>
               <p>
-                O restaurante Azeite de Dênde conta com uma grande
-                infraestrutura para atender bem seu cliente. <br />
-                Contamos com um enorme espaço para acomodação, bem decorado, e
-                uma cozinha sofisticada.
+              Kuliah di Turki oleh PT. Biru Marmara Edukasi adalah lembaga konsultan pendidikan terbesar di Indonesia yang mendedikasikan diri dalam hal Pendidikan dan Kuliah di Turki.
               </p>
             </article>
           </Col>
@@ -37,12 +34,10 @@ export default function RestauranteSection() {
         <Row>
           <Col xs="12" sm="6">
             <article title="No centro histórico de Salvador">
-              <h3>No centro histórico de Salvador</h3>
+              <h3>Terbaik, Terdepan, Terpercaya!</h3>
               <p>
-                O restaurante Azeite de Dênde conta com uma grande
-                infraestrutura para atender bem seu cliente. <br />
-                Contamos com um enorme espaço para acomodação, bem decorado, e
-                uma cozinha sofisticada.
+              PT Biru Marmara Edukasi ditunjuk oleh Universitas–Universitas Negeri Turki 
+              sebagai perwakilan di Indonesia untuk memberikan kesempatan bagi para pelajar Indonesia agar mudah dapat melanjutkan pendidikan di Turki dengan berbagai subsidi yang diberikan oleh pemerintah Turki.
               </p>
             </article>
           </Col>
@@ -60,6 +55,11 @@ export default function RestauranteSection() {
           <Col xs="12" sm="4">
             <RestauranteImg5 alt="Interior do restaurante, area premium" />
           </Col>
+    
+      <p class={styles.info}>|| 25 University ||
+      700+ Students ||
+      3 Strata ||</p>
+      
         </Row>
       </Container>
     </R.RestauranteSection>
