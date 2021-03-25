@@ -6,7 +6,7 @@ import * as S from './styles';
 
 function Sitemap({ sitemapLinks }) {
   return (
-    <S.SitemapWrapper title="Mapa do Site">
+    <S.SitemapWrapper title="Kuliah di turki">
       <ul>
         {sitemapLinks.map(({ href, label }, index) => (
           <li key={index}>

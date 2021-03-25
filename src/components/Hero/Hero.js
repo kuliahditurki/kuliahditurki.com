@@ -19,8 +19,7 @@ export default function Hero({ data }) {
           <Col xs="12">
             <H.Title>{data.site.siteMetadata.title}</H.Title>
             <H.Tagline>
-            Kuliah di Turki oleh PT. Biru Marmara Edukasi adalah lembaga konsultan 
-            pendidikan terbesar di Indonesia yang mendedikasikan diri dalam hal Pendidikan dan Kuliah di Turki.
+            Turki yang terletak di antara benua Eropa dan Asia memiliki banyak kampus terbaik di berbagai kota di Turki dengan kualitas pendidikan yang mumpuni dan gelar yang diakui oleh dunia International.
             </H.Tagline>
             <Button
               href="#restaurante"

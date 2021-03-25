@@ -1,6 +1,5 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import stylesRestaurant from "../../components/style.scss"
 import RestauranteImg1 from '../../assets/restaurante-img-1';
 import RestauranteImg2 from '../../assets/restaurante-img-2';
 import RestauranteImg3 from '../../assets/restaurante-img-3';
@@ -56,11 +55,24 @@ export default function RestauranteSection() {
             <RestauranteImg5 alt="Interior do restaurante, area premium" />
           </Col>
     
-      <h3 className={stylesRestaurant.info}>|| 25 University ||
-      700+ Students ||
-      3 Strata ||</h3>
+  
         </Row>
       </Container>
+      <br />
+      <center>
+      <h2> 25 University 700+ Students 3 Strata.</h2>
+      <h2>Daftar Jalur SAT.<br />
+      Daftar Santri Goes To Turki.<br />
+      Daftar S1 Jalur Bekas Program llahiyat (Tanpa Tes).<br />
+      Daftar S1 Istanbul.<br />
+      Daftar S1 Uludag University.<br /> 
+      Daftar S1 PTN Turki Jalur Berkas Tanpa Tes Tulis (Esensi Beasiswa).<br />
+      Daftar SMAN International Imam Hatip.
+      </h2>
+
+      </center>
     </R.RestauranteSection>
+
+
   );
 }

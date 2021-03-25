@@ -18,8 +18,7 @@ export default function Footer() {
           <Col xs="12" sm="4">
             <h3>Kontak</h3>
             <p>
-              - kontak
-              <br />- +62 21 8276 0460 <br />
+              - +62 21 8276 0460 <br />
               - +62 812 1869 3266 <br />
               - +62 858 8965 2426 <br />
               - Youtube : Kuliah di Turki <br />
