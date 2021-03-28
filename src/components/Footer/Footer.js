@@ -8,7 +8,7 @@ import * as F from './styles';
 
 export default function Footer() {
   return (
-    <F.FooterWrapper title="Rodapé">
+    <F.FooterWrapper title="Rodapé" id="footer">
       <Container>
         <Row>
           <Col xs="12" sm="4">
@@ -18,6 +18,7 @@ export default function Footer() {
           <Col xs="12" sm="4">
             <h3>Kontak</h3>
             <p>
+              - +62 852 1950 7377 <br />
               - +62 21 8276 0460 <br />
               - +62 812 1869 3266 <br />
               - +62 858 8965 2426 <br />
@@ -29,6 +30,8 @@ export default function Footer() {
           <Col xs="12" sm="4">
             <h3>Kuliah Di Turki</h3>
             <SocialMedias />
+            <br />
+            <h2>PT ARETANET INDONESIA</h2>
           </Col>
         </Row>
         <Row>

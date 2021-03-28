@@ -22,7 +22,7 @@ export default function Hero({ data }) {
             Turki yang terletak di antara benua Eropa dan Asia memiliki banyak kampus terbaik di berbagai kota di Turki dengan kualitas pendidikan yang mumpuni dan gelar yang diakui oleh dunia International.
             </H.Tagline>
             <Button
-              href="#restaurante"
+              href="#tentangturki"
               color="var(--secondary-color)"
               background="var(--base-color)"
             >

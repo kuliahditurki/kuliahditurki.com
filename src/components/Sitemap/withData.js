@@ -4,8 +4,8 @@ export default function withData(Component) {
   const sitemapLinks = [
     { label: 'Tentang Kuliah Di Turki', href: '#tentangturki' },
     { label: 'Info', href: '#tentangkami' },
-    { label: 'Tentang Kami', href: '#info' },
-    { label: 'kontak', href: '#kontak' },
+    { label: 'Gallery', href: '#gallery' },
+    { label: 'kontak', href: '#footer' },
   ];
 
   return ({ ...props }) => <Component sitemapLinks={sitemapLinks} {...props} />;
