@@ -8,7 +8,7 @@ export default function ContactForm() {
 <Row>
   <Col>
     <h3>	
-Kaya Akan Sejarah</h3>
+  Kaya Akan Sejarah</h3>
     <p>Pemerintah Turki telah menaikkan anggaran pendidikannya bahkan terus memperbaiki sistem pendidikan yang berlaku untuk mencapai hasil yang terbaik.</p>
     <br />
     <h3>Tempat Study yang Unik & Menarik</h3>
