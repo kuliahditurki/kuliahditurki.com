@@ -3,7 +3,6 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 import Sitemap from '../Sitemap/Sitemap';
 import SocialMedias from '../SocialMedias/SocialMedias';
-
 import * as F from './styles';
 
 export default function Footer() {
@@ -31,7 +30,7 @@ export default function Footer() {
             <h3>Kuliah Di Turki</h3>
             <SocialMedias />
             <br />
-            <h2>PT ARETANET INDONESIA</h2>
+            <h3>PT ARETANET INDONESIA</h3>
           </Col>
         </Row>
         <Row>
