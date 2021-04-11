@@ -22,7 +22,7 @@ export default function RestauranteSection() {
             <article title="Infraestrutura">
               <h3>Mengapa Harus Kuliah DI Turki</h3>
               <p>
-              Kuliah di Turki oleh PT. Biru Marmara Edukasi adalah lembaga konsultan pendidikan terbesar di Indonesia yang mendedikasikan diri dalam hal Pendidikan dan Kuliah di Turki.
+              Saya akan memberi Anda 10 universitas termudah tempat kami bekerja. Beberapa adalah $600 (itu harga perusahaan kami) surat penerimaan (untuk Ilmu Sosial, Ilmu Ekonomi dan teologi) sekitar). Tetapi dengan harga ini, minimal harus ada 50 siswa.
               </p>
             </article>
           </Col>
@@ -33,10 +33,9 @@ export default function RestauranteSection() {
         <Row>
           <Col xs="12" sm="6">
             <article title="No centro histórico de Salvador">
-              <h3>Terbaik, Terdepan, Terpercaya!</h3>
+              <h3>Unggul Modern dan Berdaya Saing</h3>
               <p>
-              PT Biru Marmara Edukasi ditunjuk oleh Universitas–Universitas Negeri Turki 
-              sebagai perwakilan di Indonesia untuk memberikan kesempatan bagi para pelajar Indonesia agar mudah dapat melanjutkan pendidikan di Turki dengan berbagai subsidi yang diberikan oleh pemerintah Turki.
+              Tapi yang sangat penting adalah dimana dari 10 universitas dari negara Indonesia ini yang memiliki akreditasi (ekivalensi), perlu diteliti. Jika perlu, kami dapat mengubah beberapa universitas.
               </p>
             </article>
           </Col>
@@ -69,6 +68,24 @@ export default function RestauranteSection() {
       Daftar S1 PTN Turki Jalur Berkas Tanpa Tes Tulis (Esensi Beasiswa).<br />
       Daftar SMAN International Imam Hatip.
       </h2>
+        <h2>Beberapa Jurusan Kuliah Di Turki Antara Lain</h2>
+        <h3>1. Kütahya Dumlupınar üniversitesi ($ 600 untuk Ilmu Sosial, Ilmu Ekonomi, teologi untuk minimal 50+ Siswa)</h3>
+        <h3>2. Yalova üniversitesi ($ 650 untuk Ilmu Sosial, Ilmu Ekonomi, teologi untuk minimal 50+ Siswa)</h3>
+        <h3>3. Rize Recep Tayyip Erdoğan üniversitesi</h3>
+        <h3>4. Kayseri Erciyes</h3>
+        <h3>5. Düzce üniversitesi ($ 650 untuk Ilmu Sosial, Ilmu Ekonomi, teologi untuk minimal 50+ Siswa)</h3>
+        <h3>6. Uşak Üniversitesi</h3>
+        <h3>7. Siirt üniversitesi ($ 600 untuk Ilmu Sosial, Ilmu Ekonomi, teologi untuk minimal 50+ Siswa)</h3>
+        <h3>8. Bolu Abant İzzet Baysal Üniversitesi</h3>
+        <h3>9. Sivas Cumhuriyet Üniversitesi</h3>
+        <h3>10. Sakarya uygulamalı bilimler üniversitesi</h3>
+
+
+
+
+
+
+
 
       </center>
     </R.RestauranteSection>
