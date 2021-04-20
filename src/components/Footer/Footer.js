@@ -18,12 +18,8 @@ export default function Footer() {
             <h3>Kontak</h3>
             <p>
               - +62 852 1950 7377 <br />
-              - +62 21 8276 0460 <br />
-              - +62 812 1869 3266 <br />
-              - +62 858 8965 2426 <br />
-              - Youtube : Kuliah di Turki <br />
-              -  Instagram : kuliahditurki_id <br />
-              -  Facebook : kuliahditurki, studyditurki<br />
+              - +62 813 2679 1473 <br />
+              - +62 853 1226 1634 <br />
             </p>
           </Col>
           <Col xs="12" sm="4">

@@ -4,7 +4,7 @@ export default function withData(Component) {
   const sitemapLinks = [
     { label: 'Tentang Kuliah Di Turki', href: '#tentangturki' },
     { label: 'Info', href: '#tentangkami' },
-    { label: 'Gallery', href: '#gallery' },
+    { label: 'Jurusan', href: '#jurusan' },
     { label: 'kontak', href: '#footer' },
   ];
 
