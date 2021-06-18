@@ -15,6 +15,7 @@ export default function RestauranteSection() {
             <h2>Tentang Kuliah Di Turki</h2>
           </Col>
         </Row>
+
         <Row>
           <Col xs="12" sm="6">
             <article title="Infraestrutura">
@@ -41,6 +42,39 @@ export default function RestauranteSection() {
             <RestauranteImg2 alt="Pelourinho" />
           </Col>
         </Row>
+
+        <Row>
+          <Col xs="12" sm="6">
+            <article title="No centro histórico de Salvador">
+              <h3>Biaya Yang Terjangkau</h3>
+              <p>
+              Kami akan mengantarkan calon mahasiswa untuk mendapatkan kampus yang dengan biaya terjangkau serta kualitas yang baik.
+              </p>
+            </article>
+          </Col>
+          <Col xs="12" sm="6">
+            <RestauranteImg2 alt="Pelourinho" />
+          </Col>
+        </Row>
+<br />
+<br />
+        <Row>
+          <Col xs="12" sm="6">
+            <article title="No centro histórico de Salvador">
+              <h3>Negara Aman Dan Ramah</h3>
+              <p>
+              Turki merupakan salah satu negara yang aman dan ramah serta amanah, cocok banget dengan karakter orang indonesia yang ingin studi di sana.
+              </p>
+            </article>
+          </Col>
+          <Col xs="12" sm="6">
+            <RestauranteImg2 alt="Pelourinho" />
+          </Col>
+        </Row>
+<br />
+<br />
+        
+
       </Container>
       <br />
       <center>
