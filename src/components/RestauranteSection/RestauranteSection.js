@@ -31,6 +31,9 @@ export default function RestauranteSection() {
         </Row>
         <Row>
           <Col xs="12" sm="6">
+            <RestauranteImg2 alt="Pelourinho" />
+          </Col>
+          <Col xs="12" sm="6">
             <article title="No centro histórico de Salvador">
               <h3>Unggul Modern dan Berdaya Saing</h3>
               <p>
@@ -38,9 +41,7 @@ export default function RestauranteSection() {
               </p>
             </article>
           </Col>
-          <Col xs="12" sm="6">
-            <RestauranteImg2 alt="Pelourinho" />
-          </Col>
+          
         </Row>
 
         <Row>
@@ -60,6 +61,9 @@ export default function RestauranteSection() {
 <br />
         <Row>
           <Col xs="12" sm="6">
+            <RestauranteImg2 alt="Pelourinho" />
+          </Col>
+          <Col xs="12" sm="6">
             <article title="No centro histórico de Salvador">
               <h3>Negara Aman Dan Ramah</h3>
               <p>
@@ -67,9 +71,7 @@ export default function RestauranteSection() {
               </p>
             </article>
           </Col>
-          <Col xs="12" sm="6">
-            <RestauranteImg2 alt="Pelourinho" />
-          </Col>
+          
         </Row>
 <br />
 <br />
